@@ -1,4 +1,4 @@
-import Image from "next/image";
+"use client";
 import Layouts from "../layouts/Layouts";
 
 export default function Home() {
